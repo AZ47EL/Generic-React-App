@@ -1,0 +1,1 @@
+export default ['content', 'about us', 'contact', 'FAQ']
